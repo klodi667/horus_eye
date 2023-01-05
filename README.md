@@ -13,6 +13,7 @@ Victims of the Horus Eyes are likely to lose control of their computers and acce
 wget "https://drive.google.com/drive/folders/11PEsRPTVHR1zKT6j2BLD51UOTxd6mM_h?usp=share_link"
 
 
+<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -23,5 +24,8 @@ wget "https://drive.google.com/drive/folders/11PEsRPTVHR1zKT6j2BLD51UOTxd6mM_h?u
 
 </body>
 </html>
+
+
+
 
 
