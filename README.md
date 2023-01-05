@@ -12,18 +12,17 @@ Victims of the Horus Eyes are likely to lose control of their computers and acce
 
 wget "https://drive.google.com/drive/folders/11PEsRPTVHR1zKT6j2BLD51UOTxd6mM_h?usp=share_link"
 
-
-<!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Edm6-l0NxXo?clip=Ugkx72blprQyw_GfKruwu2ca7DOdETf90G9v&clipt=EPy1BBjcigg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h1>NWO</h1>
+
+<p><a href="https://www.youtube.com/embed/Edm6-l0NxXo?clip=Ugkx72blprQyw_GfKruwu2ca7DOdETf90G9v&clipt=EPy1BBjcigg">NWO</a></p>
 
 </body>
 </html>
+
+
 
 
 
